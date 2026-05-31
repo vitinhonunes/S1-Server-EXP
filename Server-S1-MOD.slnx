@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Server-Injection/Server-Injection.vcxproj" Id="a40ac806-c87f-4955-b130-3893b55ab2cc" />
+  <Project Path="Server-S1-MOD.vcxproj" Id="c55bf32c-d8f6-429e-a836-2aa2aa4190d8" />
+</Solution>
